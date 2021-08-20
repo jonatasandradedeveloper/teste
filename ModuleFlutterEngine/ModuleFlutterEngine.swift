@@ -7,8 +7,6 @@
 //
 
 import Foundation
-import Flutter
-import FlutterPluginRegistrant
 
 public final class ModuleFlutterEngine {
 
